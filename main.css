@@ -1,0 +1,24 @@
+.vjs-play-control,
+.vjs-mute-control,
+.vjs-volume-control,
+.vjs-time-control,
+.vjs-duration,
+.vjs-live-control,
+.vjs-seek-to-live-control,
+.vjs-remaining-time,
+.vjs-custom-control-spacer,
+.vjs-playback-rate,
+.vjs-chapters-button,
+.vjs-descriptions-button,
+.vjs-subs-caps-button,
+.vjs-audio-button,
+.vjs-picture-in-picture-control,
+.vjs-fullscreen-control,
+.vjs-current-time {
+  display: none !important;
+}
+
+.vjs-progress-control {
+  height: 1.5em !important;
+  top: -1.5em !important;
+}
