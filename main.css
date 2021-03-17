@@ -19,6 +19,10 @@
 }
 
 .vjs-progress-control {
-  height: 1.5em !important;
-  top: -1.5em !important;
-}
+    height: 1.5em !important;
+    top: 1.5em !important;
+  }
+  .vjs-control-bar {
+    transition: none !important;
+    transform: none !important
+  }
