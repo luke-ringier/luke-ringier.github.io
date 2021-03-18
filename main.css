@@ -22,7 +22,8 @@
     height: 1.5em !important;
     top: 1.5em !important;
   }
-  .vjs-control-bar {
+.vjs-control-bar {
     transition: none !important;
-    transform: none !important
-  }
+    transform: none !important;
+    background-color: rgba(0,0,0,0) !important;
+}
